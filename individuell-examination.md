@@ -136,6 +136,7 @@ Bedömningen sker helt skriftligt utifrån ditt GitHub-repo och innehållet i `R
 ## Inlämning
 
 Lämna in genom att klistra in länken till ditt publika GitHub-repo i Moodle.
+Sista inlämnigsdag är fredag 23:e
 
 ---
 
