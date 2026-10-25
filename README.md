@@ -39,7 +39,7 @@ Varje ämne innehåller fem filer med samma fasta roller:
 
 * **Måndag, onsdag, fredag (13:00–16:00):** Lektion live i Teams.
 * **Tisdag, torsdag:** Heltid för eget arbete, övningar, AI-granskning och repetition.
-* **Starta alltid i veckomappen:** Öppna aktuell veckomapp (t.ex. `vecka-42/`) och följ veckans egen README för detaljerat dagsschema.
+* **Starta alltid i veckomappen:** Öppna aktuell veckomapp (t.ex. `vecka-44/`) och följ veckans egen README för detaljerat dagsschema.
 
 ---
 
@@ -52,7 +52,7 @@ Mapparna publiceras löpande inför varje ny vecka.
 * **Vecka 43 — Handledning & Examination 1** *(Inlämning fre 23/10. Eget publikt repo.)*
 
 ### Block 2 — Scrum, Git i team & Examination 2
-* **Vecka 44 — Scrum och Git i team** (sprint, feature-branch, Pull Request, konflikt)
+* **[Vecka 44 — Scrum och Git i team](./vecka-44/)** (sprint, feature-branch, Pull Request, konflikt)
 * **Vecka 45 — Handledning & Examination 2** *(Inlämning och muntlig redovisning. Gemensamt repo.)*
 
 ---
